@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gala</h1>
 <h3 align="center">Junior Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **my own website for my portfolio**
+- 🔭 I’m currently working on **continuously improving my website & creating a website for an auto-repair bike workshop**
 
 - 🌱 I’m currently learning **Javascript through the JS 30 challenge**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/galathevenet](https://troopl.com/galathevenet)
+- 👨‍💻 All of my projects are available at [galathevenet.com](http://www.galathevenet.com)
 
 - 📫 How to reach me **gala.thevenet@gmail.com**
 
