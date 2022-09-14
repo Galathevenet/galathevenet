@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gala</h1>
 <h3 align="center">Junior Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **continuously improving my website & creating a website for an auto-repair bike workshop**
-
-- 🌱 I’m currently learning **Javascript through the JS 30 challenge**
+- 🔭 I’m currently working at **Lyanne, an awesome company helping you to get the ndemnities you deserve from your insurance !**
 
 - 👨‍💻 All of my projects are available at [galathevenet.com](http://www.galathevenet.com)
 
 - 📫 How to reach me **gala.thevenet@gmail.com**
-
-- 😄 Pronouns: **She/her**
 
 - ⚡ Fun fact **I live in a remote location with only 2 neighbors !**
 
