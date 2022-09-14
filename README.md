@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gala</h1>
 <h3 align="center">Junior Full Stack Developer</h3>
 
-- 🔭 I’m currently working at **Lyanne, an awesome company helping you to get the ndemnities you deserve from your insurance !**
+- 🔭 I’m currently working at **Lyanne, an awesome company helping you to get the indemnities you deserve from your insurance !**
 
 - 👨‍💻 All of my projects are available at [galathevenet.com](http://www.galathevenet.com)
 
