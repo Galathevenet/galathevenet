@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working at **Lyanne, an awesome company helping you to get the indemnities you deserve from your insurance !**
 
-- 👨‍💻 All of my projects are available at [galathevenet.com](http://www.galathevenet.com)
-
 - 📫 How to reach me **gala.thevenet@gmail.com**
 
 - ⚡ Fun fact **I live in a remote location with only 2 neighbors !**
